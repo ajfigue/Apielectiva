@@ -13,3 +13,4 @@
 ## Spring 2:
 ### Creacion de la API
 ## Spring 3:
+![Documentacion](https://github.com/ajfigue/Apielectiva/blob/master/images/documentacion.png)
